@@ -179,7 +179,7 @@ const Footer = () => {
                     textShadow: "0 0 15px rgba(255, 255, 255, 0.5)"
                   }}
                 >
-                  Desarrollado por Daniel Arias
+                  Desarrollado por Daniel Arias y Federico Aguero
                 </motion.p>
                 <motion.p 
                   className="text-blue-300 text-lg"
